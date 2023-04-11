@@ -2,7 +2,7 @@
 package main
 
 import (
-	"a_lib_in_go/my_package_01"
+	"github.com/williamszk/a_lib_in_go/my_package_01"
 	"testing"
 )
 
