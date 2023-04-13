@@ -11,3 +11,8 @@ func SayHi() {
 func SayBye() {
 	my_package_01.SayBye()
 }
+
+func AnotherFuncForPatch2(){
+	my_package_01.SayHi()
+	my_package_01.SayBye()
+}
