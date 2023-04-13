@@ -1,9 +1,10 @@
 // This is just a test to run this mock lib.
-package main
+package bananas
 
 import (
-	"github.com/williamszk/a_lib_in_go/my_package_01"
 	"testing"
+
+	"github.com/williamszk/a_lib_in_go/my_package_01"
 )
 
 func TestSayHi(t *testing.T) {
